@@ -1,3 +1,5 @@
+"use strict"
+
 var constructMaximumBinaryTree = function(nums) {
     return construct(nums, 0, nums.length);
 };
