@@ -1,3 +1,4 @@
+"use strict"
 /**
  * @param {number} left
  * @param {number} right
